@@ -1,11 +1,17 @@
-![jenga](https://user-images.githubusercontent.com/69867050/185171054-7c6ab849-43af-408e-bf74-955c612cc2e6.jpeg)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/69867050/185171054-7c6ab849-43af-408e-bf74-955c612cc2e6.jpeg" />
+</div>
 
-<a href="https://github.com/pourroymatt750/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/pourroymatt750/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=4" />
-</a>
+<div align="center">
+  <a href="https://github.com/pourroymatt750/github-readme-stats">
+    <img align="center" width="700" src="https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=react" />
+  </a>
+</div>
+<div align="center"> 
+  <a href="https://github.com/pourroymatt750/github-readme-stats">
+    <img align="center" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=4" />
+  </a>
+</div>
 
 ## A little about me: 
 
