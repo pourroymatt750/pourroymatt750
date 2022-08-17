@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/69867050/185171054-7c6ab849-43af-408e-bf74-955c612cc2e6.jpeg" />
+  <img width="600" src="https://user-images.githubusercontent.com/69867050/185171054-7c6ab849-43af-408e-bf74-955c612cc2e6.jpeg" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 <div align="center"> 
   <a href="https://github.com/pourroymatt750/github-readme-stats">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=4" />
+    <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=4" />
   </a>
 </div>
 
