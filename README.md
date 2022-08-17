@@ -4,3 +4,4 @@
 
 ### I'm a software engineer and luxury watch broker based out of Tampa, FL. I'm incredibly passionate about engineering because human civilization was nearly stagnant for most of human history until about 200 years ago, when humans invented the method of invention. Ever since then, we have seen an unbelievable increase in both standard of living and quality of life, and I want to be apart of the group of people that help build the future. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/pourroymatt750/github-readme-stats)
