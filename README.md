@@ -1,7 +1,9 @@
 ![jenga](https://user-images.githubusercontent.com/69867050/185171054-7c6ab849-43af-408e-bf74-955c612cc2e6.jpeg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=react)](https://github.com/pourroymatt750/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
 ## A little about me: 
 
 ### I'm a software engineer and luxury watch broker based out of Tampa, FL. I'm incredibly passionate about engineering because human civilization was nearly stagnant for most of human history until about 200 years ago, when humans invented the method of invention. Ever since then, we have seen an unbelievable increase in both standard of living and quality of life, and I want to be apart of the group of people that help build the future. 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/pourroymatt750/github-readme-stats)
