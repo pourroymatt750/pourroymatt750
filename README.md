@@ -1,8 +1,11 @@
 ![jenga](https://user-images.githubusercontent.com/69867050/185171054-7c6ab849-43af-408e-bf74-955c612cc2e6.jpeg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=react)](https://github.com/pourroymatt750/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&card_width=400)](https://github.com/pourroymatt750/github-readme-stats)
+<a href="https://github.com/pourroymatt750/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/pourroymatt750/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=4" />
+</a>
 
 ## A little about me: 
 
