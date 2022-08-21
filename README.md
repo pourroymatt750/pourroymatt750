@@ -15,7 +15,7 @@
 
 <h1 align="center">A little about me:</h1>
 
-<h2 align="center">I'm a software engineer and luxury watch broker based out of Tampa, FL. I'm incredibly passionate about engineering because human civilization was nearly stagnant for most of human history until about 200 years ago, when humans invented the method of invention. Ever since then, we have seen an unbelievable increase in both standard of living and quality of life, and I want to be apart of the group of people that help build the future.</h2>
+<h2 align="center">I'm a software engineer and luxury watch broker based out of Tampa, FL. I'm incredibly passionate about engineering because human civilization was nearly stagnant for most of human history until about 200 years ago, when humans invented the method of invention. Ever since then, we have seen an unbelievable increase in both standard of living and quality of life, and I want to be apart of the group of people that build the future.</h2>
 
 <div align="center">
   <h1>My Skills</h1>
