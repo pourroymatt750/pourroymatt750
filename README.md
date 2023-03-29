@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/69867050/185171054-7c6ab849-43af-408e-bf74-955c612cc2e6.jpeg" />
-</div>
-
-<div align="center">
   <a href="https://github.com/pourroymatt750/github-readme-stats">
     <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=react" />
   </a>
