@@ -5,7 +5,7 @@
 </div>
 <div align="center"> 
   <a href="https://github.com/pourroymatt750/github-readme-stats">
-    <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=4" />
+    <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=10" />
   </a>
 </div>
 
