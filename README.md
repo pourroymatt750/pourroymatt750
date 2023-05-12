@@ -11,7 +11,7 @@
 
 <h1 align="center">A little about me:</h1>
 
-<h2 align="center">Software engineer based out of Tampa, FL. Will be graudating with a Bachelors in Computer Science in May 2023, have 6 months internship experience as a developer, and over a year of tech support and troubleshooting experience.</h2>
+<h2 align="center">Software engineer based out of Tampa, FL. 6 months of software developer internship experience and over 1 year of tech support/troubleshooting experience. Recently graduated with a bachelors in computer science.</h2>
 
 <div align="center">
   <h1>My Skills</h1>
