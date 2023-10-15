@@ -11,7 +11,7 @@
 
 <h1 align="center">A little about me:</h1>
 
-<h2 align="center">Software engineer based out of Tampa, FL. 6 months of software developer internship experience and over 1 year of tech support/troubleshooting experience. Recently graduated with a bachelors in computer science.</h2>
+<h2 align="center">I'm a software developer with about 2 years of experience in developing and troubleshooting software. I recently graduated with a bachelors in computer science.</h2>
 
 <div align="center">
   <h1>My Skills</h1>
