@@ -1,12 +1,11 @@
+<h1 align="center">A little about me:</h1>
+<h2 align="center">I'm a software developer with about 2 years of experience in developing and troubleshooting software. I recently graduated with a bachelors in computer science.</h2>
+
 <div align="center"> 
   <a href="https://github.com/pourroymatt750/github-readme-stats">
     <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=6" />
   </a>
 </div>
-
-<h1 align="center">A little about me:</h1>
-
-<h2 align="center">I'm a software developer with about 2 years of experience in developing and troubleshooting software. I recently graduated with a bachelors in computer science.</h2>
 
 <div align="center">
   <h1>My Skills</h1>
