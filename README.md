@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://github.com/pourroymatt750/github-readme-stats-git-masterstaa-rickstaa">
-    <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=pourroymatt750&hide=stars,issues&count_private=true&show_icons=true&theme=react" />
-  </a>
-</div>
 <div align="center"> 
   <a href="https://github.com/pourroymatt750/github-readme-stats">
     <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourroymatt750&layout=compact&theme=react&langs_count=6" />
